@@ -16,7 +16,6 @@ function App() {
         <Stack.Screen name="Home" component={ListCite} />
         <Stack.Screen name="Create" component={CreateCite} />
         <Stack.Screen name="Datail" component={DatailCite} />
-        <Stack.Screen name="Datail" component={DatailCite} />
         <Stack.Screen name="Update" component={UpdateCite} />
       </Stack.Navigator>
     </NavigationContainer>
